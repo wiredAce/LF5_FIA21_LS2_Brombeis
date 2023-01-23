@@ -120,6 +120,7 @@ class Fahrkartenautomat {
 				System.out.println("\n\n");
 		
 	}
+	boolean test;
 
 	private static void rueckgeldAusgeben(double eingezahlterGesamtbetrag, double zuZahlenderBetrag) {
 
